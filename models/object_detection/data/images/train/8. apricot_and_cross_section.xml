@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>8. apricot_and_cross_section.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\8. apricot_and_cross_section.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1910</width>
+		<height>989</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>205</ymin>
+			<xmax>927</xmax>
+			<ymax>870</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1044</xmin>
+			<ymin>201</ymin>
+			<xmax>1705</xmax>
+			<ymax>895</ymax>
+		</bndbox>
+	</object>
+</annotation>

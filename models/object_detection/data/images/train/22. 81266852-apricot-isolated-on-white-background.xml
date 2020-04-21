@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>22. 81266852-apricot-isolated-on-white-background.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\22. 81266852-apricot-isolated-on-white-background.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1212</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>176</ymin>
+			<xmax>1043</xmax>
+			<ymax>1176</ymax>
+		</bndbox>
+	</object>
+</annotation>

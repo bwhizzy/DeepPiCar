@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3. dried_turkish_apricots1_345x_2x_abd1c8d9-b1e8-4051-ab72-e30d51ad2775_300x300.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\3. dried_turkish_apricots1_345x_2x_abd1c8d9-b1e8-4051-ab72-e30d51ad2775_300x300.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>66</ymin>
+			<xmax>287</xmax>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

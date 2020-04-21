@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1. beautylabthestore-protes-yles-kokoi-gia-scrub-apricot-150gr.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\1. beautylabthestore-protes-yles-kokoi-gia-scrub-apricot-150gr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>59</xmin>
+			<ymin>137</ymin>
+			<xmax>752</xmax>
+			<ymax>646</ymax>
+		</bndbox>
+	</object>
+</annotation>

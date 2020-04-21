@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>1. apple-fruit-500x500.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\1. apple-fruit-500x500.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple 116cal Mango &amp; Apple tropical smoothie. missing:Guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>76</ymin>
+			<xmax>467</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

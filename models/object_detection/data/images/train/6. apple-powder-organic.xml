@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>6. apple-powder-organic.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\6. apple-powder-organic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>367</width>
+		<height>420</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple 116cal Mango &amp; Apple tropical smoothie. missing:Guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>110</ymin>
+			<xmax>321</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>

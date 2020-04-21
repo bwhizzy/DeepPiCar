@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>18. apricot-natural-flavouring_1_lg.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\18. apricot-natural-flavouring_1_lg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>20</ymin>
+			<xmax>302</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

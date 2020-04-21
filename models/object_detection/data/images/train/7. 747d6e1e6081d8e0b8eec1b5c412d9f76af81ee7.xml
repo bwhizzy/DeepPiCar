@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>7. 747d6e1e6081d8e0b8eec1b5c412d9f76af81ee7.jpeg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\7. 747d6e1e6081d8e0b8eec1b5c412d9f76af81ee7.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple 116cal Mango &amp; Apple tropical smoothie. missing:Guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>108</ymin>
+			<xmax>269</xmax>
+			<ymax>359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Apple 116cal Mango &amp; Apple tropical smoothie. missing:Guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>31</ymin>
+			<xmax>390</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>
