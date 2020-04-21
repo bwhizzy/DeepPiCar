@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>44. 4e5e7d6100000578-0-image-a-20_1531914440150.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\44. 4e5e7d6100000578-0-image-a-20_1531914440150.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1908</width>
+		<height>1146</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>21</ymin>
+			<xmax>1886</xmax>
+			<ymax>1146</ymax>
+		</bndbox>
+	</object>
+</annotation>

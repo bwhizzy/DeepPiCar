@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>30. apple_green-350x350.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\30. apple_green-350x350.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple 116cal Mango &amp; Apple tropical smoothie. missing:Guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>34</ymin>
+			<xmax>338</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

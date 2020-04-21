@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>27. ambrosia-350-x-350-300x300.png</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\27. ambrosia-350-x-350-300x300.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple 116cal Mango &amp; Apple tropical smoothie. missing:Guava</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>27</ymin>
+			<xmax>273</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

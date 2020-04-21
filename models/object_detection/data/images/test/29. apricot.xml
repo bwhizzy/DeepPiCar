@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>29. apricot.jpg</filename>
+	<path>C:\Users\bwhizzy\Downloads\windows_v1.8.0\images\29. apricot.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>550</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apricot 17cal Avocado Tropical Smoothie missing:Kiwi</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>29</ymin>
+			<xmax>550</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>
